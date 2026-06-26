@@ -14,4 +14,4 @@ I build AI and automation tools that people use every day. Most of it is interna
 
 ## What I work with
 
-Python · JavaScript/React · LLM apps (Anthropic, OpenAI) · Postgres/Supabase · data pipelines · Zoho · Cloudflare
+Python · JavaScript/React · LLM apps (Anthropic, OpenAI) · Postgres/Neon · data pipelines · Zoho · Digital Ocean · Cloudflare
